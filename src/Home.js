@@ -14,6 +14,7 @@ class Home extends Component {
         <p>test:4</p>
         <p className="brake">test:5</p>
         <p>test:final</p>
+        <p>test:more</p>
       </div>
       
     );
